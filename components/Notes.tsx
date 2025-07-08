@@ -70,7 +70,7 @@ export default function Notes() {
         ...prev,
         [id]: data.summary || "No summary available.",
       }));
-    } catch (err) {
+    } catch {
       setSummaries((prev) => ({
         ...prev,
         [id]: "❌ Error getting summary.",
