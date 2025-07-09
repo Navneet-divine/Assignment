@@ -1,1 +1,1 @@
-# The assignmetn for DUME AI
+# The assignment for DUME AI
